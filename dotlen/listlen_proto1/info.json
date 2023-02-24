@@ -1,7 +1,14 @@
 {
     "keyboard_name": "List.Len()", 
+    "manufacturer": "DotLen",
+  "vendorId": "0xFAAD",
     "url": "", 
     "maintainer": "dotlen", 
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0005",
+        "device_version": "0.0.1"
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [

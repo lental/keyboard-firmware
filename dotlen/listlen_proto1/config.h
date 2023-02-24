@@ -18,13 +18,6 @@
 
 #include "config_common.h"
 
-/* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED //TK
-#define PRODUCT_ID      0x0005
-#define DEVICE_VER      0x0007
-#define MANUFACTURER    DotLen
-#define PRODUCT         List.len()
-
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 18

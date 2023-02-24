@@ -1,8 +1,7 @@
 {
   "name": "Heap.len()",
-  "vendorId": "0xFEED",
+  "vendorId": "0xFAAD",
   "productId": "0x0009",
-  "lighting": "qmk_rgblight",
   "matrix": {"rows": 5, "cols": 15},
   "layouts": {
     "labels": [

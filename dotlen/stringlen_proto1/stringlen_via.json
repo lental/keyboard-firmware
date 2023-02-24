@@ -1,8 +1,7 @@
 {
   "name": "Stringlen",
-  "vendorId": "0xFEED",
+  "vendorId": "0xFAAD",
   "productId": "0x0004",
-  "lighting": "qmk_rgblight",
   "matrix": {"rows": 4, "cols": 18},
   "layouts": {
     "keymap": [

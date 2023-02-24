@@ -1,8 +1,7 @@
 {
   "name": "Map.len()",
-  "vendorId": "0xFEED",
+  "vendorId": "0xFAAD",
   "productId": "0x0007",
-  "lighting": "qmk_rgblight",
   "matrix": {"rows": 5, "cols": 18},
   "layouts": {
     "labels": [

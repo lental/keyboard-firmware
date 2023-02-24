@@ -1,7 +1,13 @@
 {
-    "keyboard_name": "Array.Len()", 
+    "keyboard_name": "Array.Len()",
+    "manufacturer": "DotLen",
     "url": "", 
     "maintainer": "dotlen", 
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0003",
+        "device_version": "0.0.1"
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
