@@ -1,7 +1,7 @@
 {
   "name": "Stringlen",
   "vendorId": "0xFAAD",
-  "productId": "0x0004",
+  "productId": "0x0006",
   "matrix": {"rows": 4, "cols": 18},
   "layouts": {
     "labels": [

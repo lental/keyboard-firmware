@@ -4,7 +4,7 @@
     "url": "", 
     "maintainer": "dotlen",
     "usb": {
-        "vid": "0xFEED",
+        "vid": "0xFAAD",
         "pid": "0x0006",
         "device_version": "0.0.1"
     },
