@@ -13,10 +13,11 @@
             "HHKB",
             "HHKB Split"],
         ["Left Shift", "Standard", "Split"],
-        ["Backspace", "Standard", "Split", "Split w/ Encoder"],
+        ["Backspace", "Standard", "Split"],
         "ISO Enter",
         ["Right Shift", "Standard", "Split"],
-        ["Right Mods", "3x1u",  "2x1.25u",  "2x1.5u", "HHKB mods"]
+        ["Right Mods", "3x1u",  "2x1.25u",  "2x1.5u", "HHKB mods"],
+        ["Corner key", "Switch", "Encoder"]
     ],
     "keymap": [
       [
@@ -39,10 +40,8 @@
         "0,13\n\n\n2,1",
         "0,14\n\n\n2,1",
         {"x":-2},
-        "0,13\n\n\n2,2",
-        "0,14\n\n\n2,2\ne0",
-        {"x":-2},
-        "2,14"
+        "2,14\n\n\n6,0",
+        "2,14\n\n\n6,1\n\n\n\n\n\ne0"
       ],
       [
         {"c": "#cccccc"},
@@ -106,7 +105,7 @@
         "3,14"
       ],
       [
-        {"c": "#cccccc"}, 
+        {"c": "#cccccc"},
 
         {"w": 1.25}, "4,0\n\n\n0,0",
         {"w": 1.25},   "4,1\n\n\n0,0",
