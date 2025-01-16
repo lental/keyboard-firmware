@@ -1,8 +1,8 @@
 {
     "keyboard_name": "String.Len()",
     "manufacturer": "DotLen", 
-    "url": "", 
-    "maintainer": "dotlen",
+    "url": "https://github.com/lental/keyboard-firmware", 
+    "maintainer": "lental",
     "bootloader": "atmel-dfu",
     "processor": "atmega32u4",
     "usb": {
