@@ -1,6 +1,6 @@
 {
   "name": "Stringlen_p0",
-  "vendorId": "0xFAAD",
+  "vendorId": "0xFACE",
   "productId": "0x0003",
   "matrix": {"rows": 4, "cols": 18},
   "layouts": {

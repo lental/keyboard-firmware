@@ -1,6 +1,6 @@
 {
   "name": "Heap.len()",
-  "vendorId": "0xFAAD",
+  "vendorId": "0xFACE",
   "productId": "0x0009",
   "matrix": {"rows": 5, "cols": 15},
   "layouts": {

@@ -1,6 +1,6 @@
 {
   "name": "Queue.len()",
-  "vendorId": "0xFAAD",
+  "vendorId": "0xFACE",
   "productId": "0x000A",
   "matrix": {"rows": 5, "cols": 15},
   "layouts": {

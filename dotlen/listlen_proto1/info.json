@@ -1,7 +1,7 @@
 {
     "keyboard_name": "List.Len()", 
     "manufacturer": "DotLen",
-  "vendorId": "0xFAAD",
+  "vendorId": "0xFACE",
     "url": "", 
     "maintainer": "dotlen", 
     "usb": {
